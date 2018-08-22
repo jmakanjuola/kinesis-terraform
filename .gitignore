@@ -1,0 +1,16 @@
+### Terraform template
+
+**/.terraform/*
+
+# .tfstate files
+terraform.tfvars
+example.tf
+# .tfstate files
+*.tfstate
+*.tfstate.*
+demo-*
+demo
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
